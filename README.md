@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World! I'm [Alex](https://alextheobold.com). 👋
 
 <!--
 **theoboldalex/theoboldalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 PHP Developer by day
+  - 🌱 Currently deep diving into Laravel, Vue and Docker.
+
+📝 Occassional [writer](https://dev.to/theoboldalex)
+
+🎣 Fishing enthusiast
+
+🔥 Aiming to [FIRE](https://www.reddit.com/r/FIREUK/)
