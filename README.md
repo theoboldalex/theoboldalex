@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 📝 Occassional [writer](https://dev.to/theoboldalex)
 
+🕵️‍♂️ Digital privacy advocate
+
 🎣 Fishing enthusiast
 
 🔥 Aiming to [FIRE](https://www.reddit.com/r/FIREUK/)
