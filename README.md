@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 PHP Developer by day
   - 🌱 Currently deep diving into Laravel, Vue and Docker.
 
-📝 Occassional [writer](https://dev.to/theoboldalex)
+📝 Occasional [writer](https://dev.to/theoboldalex)
 
 🕵️‍♂️ Digital privacy advocate
 
