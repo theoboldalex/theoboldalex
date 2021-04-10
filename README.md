@@ -1,15 +1,12 @@
 ## Hello, World! I'm [Alex](https://alextheobold.com). 👋
 
-💻 PHP Developer by day
-  - 🌱 Currently deep diving into Laravel, Vue and Docker.
+💻 Backend Developer by day
+  - 🌱 Currently exploring the Laravel ecosystem.
+  - 😍 But, I have a soft spot for Ruby.
 
 📝 Occasional [writer](https://dev.to/theoboldalex)
 
 🕵️‍♂️ Digital privacy advocate
-
-🎣 Fishing enthusiast
-
-🔥 Aiming to [FIRE](https://www.reddit.com/r/FIREUK/)
 
 ## Github Stats
 
