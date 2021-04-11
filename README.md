@@ -1,6 +1,6 @@
 ## Hello, World! I'm [Alex](https://alextheobold.com). 👋
 
-💻 Backend Developer by day
+💻  Backend Developer by day
   - 🌱 Currently exploring the Laravel ecosystem.
   - 😍 But, I have a soft spot for Ruby.
 
