@@ -2,7 +2,6 @@
 
 💻  Backend Developer by day
   - 🌱 Currently exploring the Laravel ecosystem.
-  - 😍 But, I have a soft spot for Ruby.
 
 📝 Occasional [writer](https://dev.to/theoboldalex)
 
