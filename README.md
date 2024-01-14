@@ -1,5 +1,8 @@
-λ Functional bro
+### λ Functional bro
 
 ⚡ Neovim
+
 🐘 PHP
+
+🌃 Clojure/OCaml/Elixir
 
