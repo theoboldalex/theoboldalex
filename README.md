@@ -1,8 +1,8 @@
 ### λ Functional bro
 
-⚡ Neovim
+⚡ NeoVim
 
-🐘 PHP
+🐘 PHP/Lambo Enjoyer (same thing)
 
 🌃 OSS Contributor
 
