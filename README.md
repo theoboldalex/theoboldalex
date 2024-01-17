@@ -1,6 +1,6 @@
 ### λ Functional bro
 
-⚡ NeoVim
+⚡ NeoVim $SHILL
 
 🐘 PHP/Lambo Enjoyer (same thing)
 
