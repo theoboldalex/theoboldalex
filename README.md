@@ -1,6 +1,6 @@
 ⚡ NeoVim Shill
 
-🐘 PHP/Lambo Enjoyer (same thing)
+🚾 Closet Emacs enjoyer
 
-📣 Hypermedia Evangelist
+ƛ FP scholar
 
