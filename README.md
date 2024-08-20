@@ -2,5 +2,5 @@
 
 🤌 Emacs enjoyer
 
-ƛ FP admirer
+🍆 FP admirer
 
