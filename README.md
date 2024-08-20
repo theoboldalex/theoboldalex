@@ -1,6 +1,6 @@
 ⚡ NeoVim Shill
 
-🚾 Closet Emacs enjoyer
+🤌 Emacs enjoyer
 
-ƛ FP scholar
+ƛ FP admirer
 
