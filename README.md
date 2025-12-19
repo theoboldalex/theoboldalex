@@ -1,13 +1,13 @@
 ```shell
-alex@github:~$ echo $LANGUAGES
+theoboldalex@github:~$ echo $LANGUAGES
 go python lua bash php
 
-alex@github:~$ echo $PASSIONS
+theoboldalex@github:~$ echo $PASSIONS
 guitars burpees walking literature
 
-alex@github:~$ echo $HOME
+theoboldalex@github:~$ echo $HOME
 wrexham, uk
 
-alex@github:~$ echo $CONTACT
+theoboldalex@github:~$ echo $CONTACT
 x.com/fish_finga
 ```
