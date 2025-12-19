@@ -1,6 +1,6 @@
 ```shell
 theoboldalex@github:~$ echo $LANGUAGES
-go python lua bash php sql
+go python lua bash php sql typescript
 
 theoboldalex@github:~$ echo $PASSIONS
 guitars burpees walking literature
