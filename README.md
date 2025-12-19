@@ -2,6 +2,12 @@
 theoboldalex@github:~$ echo $LANGUAGES
 go python lua bash php sql typescript
 
+theoboldalex@github:~$ echo $TOOLS
+git docker aws terraform
+
+theoboldalex@github:~$ echo $EDITOR
+nvim
+
 theoboldalex@github:~$ echo $PASSIONS
 guitars burpees walking literature
 
