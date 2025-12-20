@@ -12,7 +12,7 @@ theoboldalex@github:~$ echo $EDITOR
 nvim
 
 theoboldalex@github:~$ echo $PASSIONS
-guitars burpees walking literature fishing
+guitars books burpees running fishing
 
 theoboldalex@github:~$ echo $HOME
 wrexham, uk
