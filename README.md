@@ -16,7 +16,4 @@ guitars books burpees running fishing
 
 theoboldalex@github:~$ echo $HOME
 wrexham, uk
-
-theoboldalex@github:~$ echo $CONTACT
-x.com/fish_finga
 ```
