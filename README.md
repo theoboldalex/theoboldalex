@@ -3,7 +3,7 @@ theoboldalex@github:~$ whoami
 alex theobold
 
 theoboldalex@github:~$ echo $LANGUAGES
-python go php sql typescript lua
+typescript go php sql lua
 
 theoboldalex@github:~$ echo $TOOLS
 git docker aws terraform
