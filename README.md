@@ -2,7 +2,7 @@
 theoboldalex@github:~$ whoami
 alex theobold
 
-theoboldalex@github:~$ echo $PASSIONS
+theoboldalex@github:~$ echo $HOBBIES
 touching grass
 
 theoboldalex@github:~$ echo $HOME
