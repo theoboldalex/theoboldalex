@@ -3,7 +3,7 @@ theoboldalex@github:~$ whoami
 alex theobold
 
 theoboldalex@github:~$ echo $HOBBIES
-touching grass
+grass touching
 
 theoboldalex@github:~$ echo $HOME
 wrexham, uk
